@@ -1,50 +1,27 @@
-
 html{
-
-    background-color: rgba(128, 128, 128, 0.411);
-    color: white;
-    font-family: 'Courier New', Courier, monospace;
-    font-size: 15pt;
-}
-
-h1,h2 {
-
-    /* color: #ff0000; */
-    font-family: 'Courier New', Courier, monospace;
     background-color: black;
-
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+}
+p,h1 { 
+     /*color: rgb(0, 225, 255);*/ 
+     font-family: 'Courier New', Courier, monospace;
 }
 
 img{
-    width: 100%;
-
+    width: 75%;
 }
 
-#nice{
-
-    color: blue;
+#special{
+    color: brown;
 }
 
-
-.special-items {
-
+.special-items{
     font-style: italic;
-    background-color: crimson;
-
+    font-weight: bold;
 }
-
 a:hover{
-    background-color: violet;
+    background-color: cadetblue;
 
-}
-
-div{
-
-    background-color: aqua;
-}
-
-.special{
-    background-color: rgb(118, 92, 143);
-    color: white;
 }
 

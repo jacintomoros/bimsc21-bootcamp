@@ -1,0 +1,20 @@
+Bootcamp Introduction to Web Development Tools
+MACAD BIM and Smart Construction 2022
+
+In this course you will learn about the basics of web development tools.
+
+First you will learn about a tool for version control called Git, which 
+can be extended to the web through a server for respositories called Github.
+Along with it you will be introduce to the  glorified text editor Visual 
+Studio Code, which allows you write and debug code in the browser through
+a web server. 
+
+In the following sessions, you will learn the basics about the three main
+componentes for modern web development:
+
+1. HTML 
+2. CSS
+3. Javascript
+
+Finally (if we have enough time left), you will be introduced to Github Pages,
+a feature that will allow you to host your sites in the web through Github.
